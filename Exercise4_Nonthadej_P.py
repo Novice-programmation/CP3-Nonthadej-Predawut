@@ -1,7 +1,7 @@
-scorefe=90
-scoregb=91
-scoreics=92
-scorecp=93
+scorefe=90.1
+scoregb=91.2
+scoreics=92.3
+scorecp=93.4
 print("--- Your score ---")
 print("Foundation English :",scorefe)
 print("General Business :",scoregb)
