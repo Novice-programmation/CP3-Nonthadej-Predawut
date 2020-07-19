@@ -1,0 +1,6 @@
+n1=int(input("Input n1:"))
+n2=int(input("Input n2:"))
+print(n1,"+",n2,"=",n1+n2)
+print(n1,"-",n2,"=",n1-n2)
+print(n1,"*",n2,"=",n1*n2)
+print(n1,"/",n2,"=",n1/n2)
